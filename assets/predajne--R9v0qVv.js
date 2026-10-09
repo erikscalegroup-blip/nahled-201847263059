@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-BkSabwWG.js";import{t}from"./reveal-kmbRgBXl.js";import{t as n}from"./StoresSection-D6qN3a3h.js";var r=e(),i=()=>(t(),(0,r.jsx)(`div`,{className:`pt-24 pb-20`,children:(0,r.jsx)(n,{z:1})}));export{i as component};

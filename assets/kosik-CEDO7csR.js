@@ -1,0 +1,1 @@
+import{r as e}from"./jsx-runtime-BkSabwWG.js";import{t}from"./react-DHmoMYoq.js";import{t as n}from"./useNavigate-DnxbGUld.js";import{u as r}from"./index-jdUNvimk.js";var i=e(t()),a=()=>{let{setOpen:e}=r(),t=n();return(0,i.useEffect)(()=>{e(!0),t({to:`/remienky`,replace:!0})},[]),null};export{a as component};

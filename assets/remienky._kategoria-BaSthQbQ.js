@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-BkSabwWG.js";import{t}from"./Catalog-B-2cXk4f.js";import{n}from"./index-jdUNvimk.js";var r=e();function i(){let{kategoria:e}=n.useParams();return(0,r.jsx)(t,{search:n.useSearch(),category:e},e)}export{i as component};

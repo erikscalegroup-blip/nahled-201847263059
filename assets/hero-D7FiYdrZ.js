@@ -1,0 +1,1 @@
+var e=`/assets/strap-leather-wjoACmF3.jpg`,t=`/assets/strap-metal-D0riQs0D.jpg`,n=`/assets/strap-rubber-CIb4oG2P.jpg`,r=`/assets/hero-C16slqWH.jpg`;export{e as i,n,t as r,r as t};
